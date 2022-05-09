@@ -8,3 +8,4 @@ stylle.css
 link css
 to html
 starts styling
+finished styling
