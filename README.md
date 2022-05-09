@@ -2,3 +2,4 @@
 doctype
 html
 h1
+paragraph
