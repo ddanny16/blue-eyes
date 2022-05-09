@@ -9,3 +9,4 @@ link css
 to html
 starts styling
 finished styling
+close body
